@@ -11,30 +11,31 @@ class KeyValuePair {
 class HashTable {
 
   constructor(numBuckets = 4) {
-    // Your code here 
+    // Your code here
   }
 
   hash(key) {
-    // Your code here 
+    // Your code here
   }
 
   hashMod(key) {
-    // Your code here 
+    // Your code here
   }
 
   insertNoCollisions(key, value) {
-    // Your code here 
+    // Your code here
   }
 
   insertWithHashCollisions(key, value) {
-    // Your code here 
+    // Your code here
   }
 
   insert(key, value) {
-    // Your code here 
+    // Your code here
   }
 
 }
 
 
 module.exports = HashTable;
+//test
